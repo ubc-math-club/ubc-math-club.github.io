@@ -7,6 +7,7 @@ slug: /my-custom-url
 
 ## Markdown heading
 
+```markdown
 Markdown text with [links](./hello.md)
 
 ## Test
@@ -14,6 +15,7 @@ Markdown text with [links](./hello.md)
 Let's see how to [Create a page](/create-a-page).
 
 Let's see how to [Create a page](./create-a-page.md).
+```
 
 ## Images
 
