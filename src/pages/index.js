@@ -18,7 +18,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             href="https://forms.gle/fhbjQjk2cWsMjJyg8"
           >
-            Join our mailing list! 📬
+            Join our mailing list 📬
           </a>
         </div>
       </div>
