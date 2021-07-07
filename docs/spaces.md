@@ -36,3 +36,29 @@ For example, Lorentz spacetime.
 As we deal with metrics, we notice that we can study the structure of
 metric spaces not directly with metric, but also with open sets induced
 by this metric.
+
+:::info
+
+All metric spaces are topological spaces, but there are some topological
+spaces that are not metric spaces.
+
+More generally:
+
+vector spaces $\in$ metric spaces $\in$ topological spaces
+
+:::
+
+Topological space is a set $X$ with topology $\Tau$ defined on it.
+
+A topology $\Tau$ is a set of subsets of $X$.
+
+We use the following axioms to define topologies:
+1. Empty set and $X$ are in $\Tau$
+2. Take two elements in topological space, their union is also in topological space (finite + infinte)
+3. Intersections of two elements in topological space is also in topological space (only finite)
+
+:::note
+
+We only can do finite intersections because infinite intersections of open sets allow getting closed sets.
+
+:::
