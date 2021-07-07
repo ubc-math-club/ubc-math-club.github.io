@@ -16,7 +16,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <a
             className="button button--secondary button--lg"
-            href="https://forms.gle/fhbjQjk2cWsMjJyg8"
+            href="https://docs.google.com/forms/d/e/1FAIpQLScqvL0bAFkaJSWbs0KCa49SuXqLXhjkqaBG3xu7tvOdf9EkLg/viewform?usp=sf_link"
           >
             Join our mailing list 📬
           </a>
