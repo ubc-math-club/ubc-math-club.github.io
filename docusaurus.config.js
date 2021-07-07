@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'UBC Math Club',
+  tagline: 'UBC Math Department Social Club',
   url: 'https://ubc-math-club.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -15,21 +15,21 @@ module.exports = {
   trailingSlash: true, // recommended for GitHub pages
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'UBC Math Club',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Wiki',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/ubc-math-club/ubc-math-club.github.io/tree/code',
           label: 'GitHub',
           position: 'right',
         },
@@ -42,7 +42,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Wiki',
               to: '/docs/intro',
             },
           ],
@@ -51,16 +51,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/umsubc',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/Hr3K7tW',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
             },
           ],
         },
@@ -73,12 +73,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/ubc-math-club/ubc-math-club.github.io/tree/code',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} UBC Math Club. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
