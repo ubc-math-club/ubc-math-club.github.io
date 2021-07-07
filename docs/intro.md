@@ -2,55 +2,35 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# What is Math
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover the meaning of mathematics.
 
-## Getting Started
+## What is mathematics?
 
-Get started by **creating a new site**.
+Many people in general, and those coming from high school especially
+don't take math seriously. Generally it's well understood what
+a physicists, a chemist, or a biologist does by general population.
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+Math is a bit harder though. Because it spans all these fields.
+It abstracts the general concepts from the intuition of a particular
+application. And replaces that intuition with intuition of abstract
+relations.
 
-## Generate a new site
+As a basic example, consider the concept of natural numbers: 1, 2, 3, ...
+They can be used to count some specific things. But this structure
+is independent from these things. In some sense it's us that impose
+this abstract structure in an intelligent attempt to categorize and
+interpret information around us.
 
-Generate a new Docusaurus site using the **classic template**:
+Study of this kind of "structure" is generally all mathematics is about.
+Number theoriest would no longer care whether these numebers
+represent cows or chicken. But they would notice that there is some
+additional structure that is hard to see when thinking in specifics.
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
-
-```elixir
-defmodule Example do
-
-end
-```
-
-```rust
-fn main() {
-
-}
-```
-
-```python
-import numpy as np
-
-np.array([1,2])
-
-for i in range(10):
-  print(i)
-```
+For example, one would notice that not all natural numbers are the same.
+Some divide the others, while others do not. And some are only trivially
+devisible by 1. This then gives rise to the concept of prime numbers.
+Which is both interesting in itself, and is also useful for applications
+in other areas, for instance, by providing an intuition for desigh of hash
+functions. Also cryptography lol.
