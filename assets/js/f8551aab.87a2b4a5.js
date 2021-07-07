@@ -1,0 +1,1 @@
+(self.webpackChunkmc_website=self.webpackChunkmc_website||[]).push([[743],{7574:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return a}});var c=n(7294),u=n(9349);function a(){return c.createElement(u.Z,null,c.createElement("h1",null,"My React page"),c.createElement("p",null,"This is a React page"))}}}]);
