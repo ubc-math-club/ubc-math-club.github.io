@@ -93,13 +93,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/ubc-math-club/ubc-math-club.github.io/edit/code/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/ubc-math-club/ubc-math-club.github.io/edit/code/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
