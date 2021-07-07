@@ -28,7 +28,7 @@ This command generates static content into the `build` directory and can be serv
 Deploys on the `main` branch of github, to be served on github pages. Code is stored in the `code` branch.
 
 ```console
-GIT_SSH_COMMAND="ssh -i ~/.ssh/gh_rsa" GIT_USER=<Your GitHub username> USE_SSH=true CURRENT_BRANCH=code DEPLOYMENT_BRANCH=main yarn deploy
+GIT_USER=<Your GitHub username> USE_SSH=true CURRENT_BRANCH=code DEPLOYMENT_BRANCH=main yarn deploy
 ```
 
 If using a non-standard ssh key, add:
