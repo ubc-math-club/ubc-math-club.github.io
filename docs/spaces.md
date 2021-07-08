@@ -22,7 +22,7 @@ Vector spaces is where we do Euclidean geometry in.
 Metric spaces generalize vector spaces by only keeping information about the metric.
 In mathematical community, metric is a function $d(x,y)$ such that:
 
-1. $d(x,y) > 0 ~ \forall x, y$ (positivity)
+1. $d(x,y) > 0 ~ \forall x, y, ~ \textit{s.t.}~ x \neq y$ (positivity)
 2. $d(x,y) = 0 \iff x = y$ (equality)
 3. $d(x,y) \leq d(x,z) + d(z, y)$ (triangle inequality)
 
