@@ -53,8 +53,8 @@ A topology $\Tau$ is a set of subsets of $X$.
 
 We use the following axioms to define topologies:
 1. Empty set and $X$ are in $\Tau$
-2. Take two elements in topological space, their union is also in topological space (finite + infinte)
-3. Intersections of two elements in topological space is also in topological space (only finite)
+2. Take two elements in topological space, their union is also in topological space. Union can be either *finite* or *infinte*.
+3. Intersections of two elements in topological space is also in topological space. Intersection can only be *finite*.
 
 :::note
 
