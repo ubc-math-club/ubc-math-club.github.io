@@ -1,0 +1,1 @@
+(self.webpackChunkmc_website=self.webpackChunkmc_website||[]).push([[574],{5111:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"poetry","name":"poetry","count":1,"permalink":"/blog/tags/poetry"}')}}]);
