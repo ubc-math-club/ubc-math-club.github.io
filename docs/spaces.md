@@ -22,7 +22,7 @@ Vector spaces is where we do Euclidean geometry in.
 Metric spaces generalize vector spaces by only keeping information about the metric.
 In mathematical community, metric is a function $d(x,y)$ such that:
 
-1. $d(x,y) > 0 \forall x, y$ (positivity)
+1. $d(x,y) > 0 ~ \forall x, y$ (positivity)
 2. $d(x,y) = 0 \iff x = y$ (equality)
 3. $d(x,y) \leq d(x,z) + d(z, y)$ (triangle inequality)
 
@@ -37,14 +37,13 @@ As we deal with metrics, we notice that we can study the structure of
 metric spaces not directly with metric, but also with open sets induced
 by this metric.
 
-:::info
+:::note
 
 All metric spaces are topological spaces, but there are some topological
 spaces that are not metric spaces.
-
 More generally:
 
-vector spaces $\in$ metric spaces $\in$ topological spaces
+vector spaces $\subset$ metric spaces $\subset$ topological spaces
 
 :::
 
