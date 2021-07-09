@@ -81,7 +81,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} UBC Math Club. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} corresponding contributors. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
