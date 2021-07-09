@@ -30,8 +30,10 @@ This text has more examples and is a bit more explicit.
 A classical first course in group theory.
 Also covers ring theory and some other advanced topics.
 
-Solutions: https://www.gregkikola.com/dl/guides/dfsol.pdf
+Solutions (by @gkikola): https://www.gregkikola.com/dl/guides/dfsol.pdf
 (Mirror: [ipfs](https://ipfs.io/ipfs/QmZsxPB7epjYrufEkiqUeVSP9hqQ8enTq4zPCq3c36dPrN/dfsol.pdf))
+
+@gkikola actually has even more solution manuals: https://www.gregkikola.com/projects/guides/
 
 ### Gallian's Contemporary Abstract Algebra
 
