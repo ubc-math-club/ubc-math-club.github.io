@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Books
+# Books (and other resources)
 
 :::note
 
@@ -38,3 +38,8 @@ Solutions (by @gkikola): https://www.gregkikola.com/dl/guides/dfsol.pdf
 ### Gallian's Contemporary Abstract Algebra
 
 Seems a bit more accessible than Dummit & Foote.
+
+### Visual group theory
+
+A visual guide to group theory:
+https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv
