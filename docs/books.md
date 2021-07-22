@@ -2,44 +2,31 @@
 sidebar_position: 3
 ---
 
-# Books (and other resources)
+# Books (and more)
 
 :::note
-
-These books are here only as a resource.
-Everyone has different needs and you might
-find some materials more useful than the others.
-
+Some materials that you might find useful.
 :::
 
-## Analysis
-
-### Rudin
-
-A classical second course in analysis.
-
-### Strichartz’ “The Way of Analysis”
-
-This text has more examples and is a bit more explicit.
+## Analysis (MATH 320/321)
+* Rudin: A classical second course in analysis
+* Strichartz "The Way of Analysis": This text has more examples and is a bit more explicit
 
 ---
-## Group theory
-
-### Dummit & Foote
-
-A classical first course in group theory.
+## Algebra (MATH 322/323)
+* Dummit & Foote: A classical first course in group theory.
 Also covers ring theory and some other advanced topics.
+[Solutions](https://www.gregkikola.com/dl/guides/dfsol.pdf)
 
-Solutions (by @gkikola): https://www.gregkikola.com/dl/guides/dfsol.pdf
-(Mirror: [ipfs](https://ipfs.io/ipfs/QmZsxPB7epjYrufEkiqUeVSP9hqQ8enTq4zPCq3c36dPrN/dfsol.pdf))
+* Gallian, Contemporary Abstract Algebra: Seems a bit more accessible than Dummit & Foote.
+* Visual Group Theory: [YouTube](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 
-@gkikola actually has even more solution manuals: https://www.gregkikola.com/projects/guides/
+---
+## Topology (MATH 426/427)
+* Munkres: Intro to topology
+* Fuchs, Homotopic Topology: That topology book with the "freaky dystopian drawings"
 
-### Gallian's Contemporary Abstract Algebra
-
-Seems a bit more accessible than Dummit & Foote.
-
-### Visual group theory
-
-A visual guide to group theory:
-https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv
+---
+## Other
+* Conway, Functions of one complex variable: honours level introductory complex analysis
+* Flajolet, [Analytic Combinatorics](https://ac.cs.princeton.edu/home/)
