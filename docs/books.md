@@ -15,9 +15,8 @@ Some materials that you might find useful.
 ---
 ## Algebra (MATH 322/323)
 * Dummit & Foote: A classical first course in group theory.
-Also covers ring theory and some other advanced topics.
-[Solutions](https://www.gregkikola.com/dl/guides/dfsol.pdf)
-
+  Also covers ring theory and some other advanced topics.
+  [Solutions](https://www.gregkikola.com/dl/guides/dfsol.pdf)
 * Gallian, Contemporary Abstract Algebra: Seems a bit more accessible than Dummit & Foote.
 * Visual Group Theory: [YouTube](https://www.youtube.com/watch?v=UwTQdOop-nU&list=PLwV-9DG53NDxU337smpTwm6sef4x-SCLv)
 
