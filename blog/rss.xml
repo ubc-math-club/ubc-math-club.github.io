@@ -8,18 +8,18 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Sheep in Scotland]]></title>
-            <link>https://ubc-math-club.github.io/blog/sheep-scotland-logic</link>
-            <guid>sheep-scotland-logic</guid>
-            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[There is at least one sheep in Scotland, at least one side of which is black]]></description>
-        </item>
-        <item>
             <title><![CDATA[Many Logs (Haiku)]]></title>
             <link>https://ubc-math-club.github.io/blog/logs-haiku</link>
             <guid>logs-haiku</guid>
             <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[`]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sheep in Scotland]]></title>
+            <link>https://ubc-math-club.github.io/blog/sheep-scotland-logic</link>
+            <guid>sheep-scotland-logic</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[There is at least one sheep in Scotland, at least one side of which is black]]></description>
         </item>
     </channel>
 </rss>
