@@ -63,7 +63,7 @@ module.exports = {
             },
             {
               label: 'Instagram',
-              href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+              href: 'https://www.instagram.com/ubc_mc',
             },
           ],
         },
