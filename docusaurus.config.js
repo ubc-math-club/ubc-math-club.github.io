@@ -105,6 +105,8 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/ubc-math-club/ubc-math-club.github.io/edit/code/',
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
