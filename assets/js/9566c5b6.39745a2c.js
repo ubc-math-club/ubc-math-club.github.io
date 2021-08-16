@@ -1,0 +1,1 @@
+(self.webpackChunkmc_website=self.webpackChunkmc_website||[]).push([[495],{8378:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"number-theory","name":"number theory","count":1,"permalink":"/blog/tags/number-theory"}')}}]);

@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ubc-math-club.github.io/blog</id>
     <title>UBC Math Club Blog</title>
-    <updated>2021-07-07T00:00:00.000Z</updated>
+    <updated>2021-08-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ubc-math-club.github.io/blog"/>
     <subtitle>UBC Math Club Blog</subtitle>
     <icon>https://ubc-math-club.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Number Theory]]></title>
+        <id>number-theory</id>
+        <link href="https://ubc-math-club.github.io/blog/number-theory"/>
+        <updated>2021-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Based on some of the problems from Prof. Dragos Ghioca's]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Many Logs (Haiku)]]></title>
         <id>logs-haiku</id>

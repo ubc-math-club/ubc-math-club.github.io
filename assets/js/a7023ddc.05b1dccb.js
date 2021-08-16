@@ -1,1 +1,0 @@
-(self.webpackChunkmc_website=self.webpackChunkmc_website||[]).push([[713],{7485:function(e){"use strict";e.exports=JSON.parse('{"poetry":{"allTagsPath":"/blog/tags","slug":"poetry","name":"poetry","count":1,"permalink":"/blog/tags/poetry"},"logic":{"allTagsPath":"/blog/tags","slug":"logic","name":"logic","count":1,"permalink":"/blog/tags/logic"}}')}}]);

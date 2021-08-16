@@ -4,9 +4,16 @@
         <title>UBC Math Club Blog</title>
         <link>https://ubc-math-club.github.io/blog</link>
         <description>UBC Math Club Blog</description>
-        <lastBuildDate>Wed, 07 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Number Theory]]></title>
+            <link>https://ubc-math-club.github.io/blog/number-theory</link>
+            <guid>number-theory</guid>
+            <pubDate>Mon, 16 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Based on some of the problems from Prof. Dragos Ghioca's]]></description>
+        </item>
         <item>
             <title><![CDATA[Many Logs (Haiku)]]></title>
             <link>https://ubc-math-club.github.io/blog/logs-haiku</link>

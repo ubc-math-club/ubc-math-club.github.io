@@ -1,0 +1,1 @@
+(self.webpackChunkmc_website=self.webpackChunkmc_website||[]).push([[19],{7415:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"outreach","name":"outreach","count":1,"permalink":"/blog/tags/outreach"}')}}]);

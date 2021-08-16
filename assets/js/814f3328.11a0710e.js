@@ -1,1 +1,0 @@
-(self.webpackChunkmc_website=self.webpackChunkmc_website||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Many Logs (Haiku)","permalink":"/blog/logs-haiku"},{"title":"Sheep in Scotland","permalink":"/blog/sheep-scotland-logic"}]}')}}]);
