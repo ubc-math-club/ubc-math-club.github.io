@@ -24,7 +24,7 @@ Formally: $\text{lcm}(a,b) := \min \{ x : a | x\ \text{and}\ b | x \}$.
 
 <details>
   <summary>Solution 1</summary>
-  <p>
+
 1. $a | \text{lcm}(a,b)$ and $b | \text{lcm}(a,b)$, thus $a \leq \text{lcm}(a,b)$ and $b \leq \text{lcm}(a,b)$ (by definition).
 2. $\gcd(a,b) | a$ and $\gcd(a,b) | b$, thus $\gcd(a,b) \leq a$ and $\gcd(a,b) \leq b$ (by definition).
 3. Combine both inequalities together:
@@ -34,5 +34,5 @@ Formally: $\text{lcm}(a,b) := \min \{ x : a | x\ \text{and}\ b | x \}$.
  * $\gcd(a,b) = a = \text{lcm}(a,b)$
  * $\gcd(a,b) = b = \text{lcm}(a,b)$
 5. Hence, $a = b$.
-  </p>
+
 </details> 
